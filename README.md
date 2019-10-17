@@ -1,4 +1,4 @@
-# Web-console Noah Docker
+# Web-ARK Noah Docker
 
 ## Getting you instance ready for Docker
 Run the following commands to install Docker and Docker Compose
